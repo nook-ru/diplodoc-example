@@ -1,5 +1,7 @@
 title: Шаблон документации
 links:
+  - title: Шаблон сайта в 1С-Битрикс
+    href: bitrix-templates/
   - title: О проекте
     href: about.md
   - title: Страница Diplodoc на главной странице

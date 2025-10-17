@@ -1,0 +1,5 @@
+title: Сборка стилей шаблона сайта
+href: index.yaml
+items:
+  - name: Сборка и подключение стилей страниц в раширения Bitrix
+    href: pages.md
