@@ -1,5 +1,7 @@
 title: Сборка стилей шаблона сайта
 href: index.yaml
 items:
+  - name: "Шаблон сайта: сборка стилей шаблона в app"
+    href: app.md
   - name: Сборка и подключение стилей страниц в раширения Bitrix
     href: pages.md
